@@ -6,6 +6,4 @@
     android:layout_height="match_parent"
     android:focusable="true"
     android:clickable="true"
-    tools:context=".MainActivity">
-
-</androidx.constraintlayout.widget.ConstraintLayout>
+    tools:context=".MainActivity"/>

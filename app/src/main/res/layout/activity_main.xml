@@ -74,13 +74,13 @@
             android:text="Entrar"
             android:layout_marginBottom="12dp"/>
 
-        <Button
-            style="@style/Widget.Material3.Button.TextButton"
-            android:id="@+id/forgot_password_button"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="Esqueceu a senha?"
-            />
+<!--        <Button-->
+<!--            style="@style/Widget.Material3.Button.TextButton"-->
+<!--            android:id="@+id/forgot_password_button"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:text="Esqueceu a senha?"-->
+<!--            />-->
 
     </LinearLayout>
 

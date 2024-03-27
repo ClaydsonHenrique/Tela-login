@@ -66,13 +66,13 @@
                 tools:ignore="VisualLintTextFieldSize,TextContrastCheck" />
         </com.google.android.material.textfield.TextInputLayout>
 
-<!--        <Button-->
-<!--            android:id="@+id/login_button"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:enabled="false"-->
-<!--            android:text="Entrar"-->
-<!--            android:layout_marginBottom="12dp"/>-->
+        <Button
+            android:id="@+id/login_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:enabled="false"
+            android:text="Entrar"
+            android:layout_marginBottom="12dp"/>
 
         <Button
             style="@style/Widget.Material3.Button.TextButton"
